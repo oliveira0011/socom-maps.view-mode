@@ -9,5 +9,5 @@
 	    "leaflet.view-mode":"0.0.1"
   	},
   	"license": "MIT",
-	"ignore": ["./!(socom-maps-viewmode.js)"],
+	"ignore": ["./!(socom-maps-viewmode.js)"]
 }
