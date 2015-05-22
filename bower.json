@@ -6,7 +6,7 @@
 	],
   	"dependencies": {
     	"leaflet": "0.7.3",
-	    "leaflet.view-mode":"0.0.1"x
+	    "leaflet.view-mode":"0.0.1"
   	},
   	"license": "MIT",
 	"ignore": ["./!(socom-maps-viewmode.js)"],
