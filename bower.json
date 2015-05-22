@@ -1,6 +1,5 @@
 {
   	"name": "socom-maps.view-mode",
-  	"version": "0.0.1",
   	"main": [
 	    "socom-maps-viewmode.js"
 	],
